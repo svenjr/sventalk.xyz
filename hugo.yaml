@@ -1,4 +1,4 @@
-baseURL:
+baseURL: https://sventalk.xyz/
 languageCode: en-us
 title: SvenTalk - XYZ
 theme: PaperMod
@@ -15,10 +15,24 @@ minify:
   disableXML: true
   minifyOutput: true
 
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: SvenTalk XYZ
-  description: "ExampleSite description"
+  description: "Where Sven talks about XYZ"
   keywords: [Blog, Gear, Alpinism]
   author: Sven
   # author: ["Me", "You"] # multiple authors
@@ -47,7 +61,7 @@ params:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "/images/mountain.png"
-    favicon16x16: "<link / abs url>"
+    favicon16x16: "/images/mountain_100.png"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
@@ -82,7 +96,7 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
@@ -102,3 +116,8 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
