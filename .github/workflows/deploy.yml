@@ -1,7 +1,8 @@
 name: Publish to GH Pages
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - main
   pull_request:
 
 jobs:
