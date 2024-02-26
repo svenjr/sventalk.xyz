@@ -1,4 +1,4 @@
-## [Sventalk.xyz](sventalk.xyz)
+## [Sventalk.xyz](https://sventalk.xyz)
 
 The home of all the code which builds my simple blogging website. It is powered by [Hugo](gohugo.io) - a simple, lean, fast architecture for making really simple (generally static) websites.
 
