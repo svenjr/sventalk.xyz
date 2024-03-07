@@ -11,7 +11,7 @@ Let's get a couple things clear: I have had this jacket for a season, I love how
 
 So...let's talk about it.
 
-![targets](/images/alpha.jpg)
+![targets](/images/alpha-parka/alpha.jpg)
 
 ## My History With the Jacket
 

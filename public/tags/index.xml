@@ -34,5 +34,40 @@
       <guid>http://localhost:1313/tags/arcteryx/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Glacier Glasses</title>
+      <link>http://localhost:1313/tags/glacier-glasses/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/glacier-glasses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Julbo</title>
+      <link>http://localhost:1313/tags/julbo/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/julbo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ombraz</title>
+      <link>http://localhost:1313/tags/ombraz/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ombraz/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smith</title>
+      <link>http://localhost:1313/tags/smith/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/smith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sunglasses</title>
+      <link>http://localhost:1313/tags/sunglasses/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sunglasses/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

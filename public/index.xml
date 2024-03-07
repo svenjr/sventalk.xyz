@@ -11,8 +11,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 21:50:56 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Mon, 26 Feb 2024 21:50:56 -0400</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>I am Sven.
+I am a telemark skier who likes skiing with a big stick, I am a landscape photographer and time-lapser when the equipment&amp;rsquo;s weight isn&amp;rsquo;t too much, an alpine climber trying to more of an alpine climber and someone who just loves little, intricate details in everything I can see.
+I love being outside and and I love gear and so that is what the majority of the posts on this site will be - but not just gear.</description>
+    </item>
+    <item>
+      <title>The Holy Grail of Sunglasses</title>
+      <link>http://localhost:1313/posts/the-holy-grail/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-holy-grail/</guid>
+      <description>The sunglasses I have tried, hated, loved and wish for. There is currently only one I view as feature complete - but more variety is needed.</description>
+    </item>
     <item>
       <title>The Arctery&#39;x Alpha Parka</title>
       <link>http://localhost:1313/posts/2023-02-25-arcteryx-alpha-parka/</link>
