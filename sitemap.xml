@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sventalk.xyz/</loc>
-    <lastmod>2024-02-26T21:50:56-04:00</lastmod>
-  </url><url>
     <loc>https://sventalk.xyz/tags/alpha/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sventalk.xyz/tags/alpinism/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sventalk.xyz/tags/arcteryx/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sventalk.xyz/posts/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sventalk.xyz/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sventalk.xyz/tags/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sventalk.xyz/posts/2023-02-25-arcteryx-alpha-parka/</loc>
-    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+    <loc>https://sventalk.xyz/posts/2023-03-21-arcteryx-alpha-parka/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sventalk.xyz/about-me/</loc>
+    <lastmod>2024-02-26T21:50:56-04:00</lastmod>
   </url><url>
     <loc>https://sventalk.xyz/categories/</loc>
   </url><url>
