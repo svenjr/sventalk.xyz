@@ -24,5 +24,5 @@ So, like I have said, I am not qualified enough for you to take my work complete
 Feel free to email me any thoughts on anything you read here. I am always happy to chat: `sventalk.monument320@aleeas.com`
 
 
-![targets](/images/about-me/sven.jpg)
+{{< image-resizer name="sven.jpg" alt="Me!" caption="" target="about-me" >}}
 

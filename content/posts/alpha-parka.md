@@ -11,7 +11,7 @@ Let's get a couple things clear: I have had this jacket for a season, I love how
 
 So...let's talk about it.
 
-![targets](/images/alpha-parka/alpha.jpg)
+{{< image-resizer name="alpha.jpg" alt="Wearing the jacket" caption="Wearing the Alpha Parka on top of Pitch 2 of Standard Route at Frankenstein in Crawford Notch, NH" target="alpha-parka" >}}
 
 ## My History With the Jacket
 
@@ -29,12 +29,12 @@ As much as we love to see right through and criticize marketing material (and Ar
 
 So, the jacket is great and I am a big fan of it. I have been able to use it on cold, humid New England winter days when you are standing waiting for a partner to get through a crux pitch and you are standing in spot that seemingly hasn't seen the sun in months just wishing your fingers kept themselves warm without your involvement. I have brought it up in a backpack as well as attached to my harness in the stuffsack that comes with it inside and attached to the inner right stash pocket. The latter method works fine but the jacket is a dense ball of weight that hangs off a seemingly tiny drawstring cord - but if all you need is warmth while you move over some pitches fast and light, this is the way.
 
-![target](/images/alpha-parka/stuff_sack.jpg)
+{{< image-resizer name="stuff-sack.jpg" alt="Stuff sack view" caption="Jacket in its stuffsack hanging off my anchor" target="alpha-parka" >}}
 
 Additionally, I have found that it stuffs into my new, neon pink [High Mountain Gear ice screw cannon](https://highmtngear.com/products/ice-screw-cannon) when it is empty - but just barely. I have the smaller, alpine size cannon and I bet if you went with the larger one, you would have a nice time with it. I find this method the best because your cannon can still be on your harness but your screws are out and racked so it is empty. Additionally, the cannon is a much more protective fabric and you have lugged it all the way out there anyway so why use the dainty sack it comes with if you don't have to?
 
-![targets](/images/alpha-parka/cannon.jpg)
-![targets](/images/alpha-parka/cannon_in_use.jpg)
+{{< image-resizer name="cannon.jpg" alt="HMG cannon" caption="The jacket stuffed into the HMG ice screw cannon alpine" target="alpha-parka" >}}
+{{< image-resizer name="cannon-in-use.jpg" alt="" caption="Climbing with the jacket in the HMG ice screw cannon on the first pitch of Parasol Gully in Dixville Notch, NH" target="alpha-parka" >}}
 
 In both cases, the jacket really does want to come out and so you get this sort of mushrooming at the top of the sacks. The drawstring cord better be good enough and you better trust the thread locker on it or it will start to open up.
 
@@ -46,50 +46,51 @@ So, in no particular order, I am just going to start to paste some pictures and 
 
 #### Zippers, Buttons, Pulls, Loops, etc.
 
-![targets](/images/alpha-parka/zipper-and-pull.jpg)
+{{< image-resizer name="zipper-and-pull.jpg" alt="One of the zippers and pulls" caption="Chest pocket zipper and pull" target="alpha-parka" >}}
+
 I am a sucker for a good zipper and pull. In the last few years, Arctery'x has made a sneaky switch to these plastic zipper pulls. For reference, I am the type of person who immediately takes zipper-pulls off of whatever comes on my stuff and makes my own out of this special, dyneema-core + polyester sheath, neon orange cord that I love. However, I got an Alpha SV hardshell and I first saw these pulls and they got my attention. I liked them and they were nice to pull, but they were also not super easy to get off. You can get them off but you have to want it. So, as I do, I started googling about them and tried to see if they were special in any way and it turns out, they might be. Rumor has it that Arctery'x spent quite a bit of time on these specifically to get the material right so that they pretty do not freeze. Those of us who spend time outside will know that pretty much anything will freeze and when it freezes, it makes pulling on it and gripping it....really hard. So, as far as I know, these are special and they are the only pulls I leave on. One thing I will say about these pulls: they exacerbate the sail affect in the wind. With a consistent wind on you, they will flap like all hell.
 
 As for the zippers themselves, they are top-of-line watertight zippers that you would expect from Arctery'x - who revolutionized the zipper game with them. I won't go into more detail about it but you can read a bit more [here](https://arcteryx.com/us/en/explore/obsessive-design/watertight-zippers/).
 
-![targets](/images/alpha-parka/hand-zipper-pocket.jpg)
+{{< image-resizer name="hand-zipper-pocket.jpg" alt="Hand zipper pocket" caption="Hand pocket zipper open with fabric differences showing" target="alpha-parka" >}}
 
 Open up the zippers to take a look inside and we will see our common theme of attention to detail with the fabric choice. This picture in particular tries and fails to show the shear difference between the two fabrics here. Your hands feel it. You get the same, thin nylon ripstop for the pocket-well that the stuff sack is made of - or at least it feels that way. It is very silky and smooth. I really like this although a lot of people prefer felt/fleece. The reason why I think a pocket like this is best is because it is slippery! When you are wearing gloves, you hands don't get stuck in the pocket on the way out - really nice. The much thicker fabric that abuts the nylon here is mainly for the zipper to have a shelf for stitching. These watertight zippers are thick and heavy and you do not want them failing - so, you need this thicker fabric.
 
-![targets](/images/alpha-parka/lower-button.jpg)
+{{< image-resizer name="lower-button.jpg" alt="The lower button closure" caption="Closure button on the bottom of the main zipper for added security" target="alpha-parka" >}}
 
 There is indeed a branded (wow) snap button closure on the bottom of the jacket. It is great if you want the added security of the jacket bottom staying closed - specifically because of the two-way zipper. However, to me..... "meh". Seems unnecessary as the main, two-way, watertight zipper on the jacket is not really easy to get on and off the track. I will touch more on this down below.
 
-![targets](/images/alpha-parka/pull-tag.jpg)
+{{< image-resizer name="pull-tag.jpg" alt="Pull tag" caption="The hang tag by the neck" target="alpha-parka" >}}
 
 Finally for this section is the hang-tag at the neck of the jacket. It is the same branded webbing that you will see on the stuff sack and it is nice. I wouldn't trust it to hold the jacket up for years with all of its weight over the hood but you do you. I can confirm it works and it did not break the few times I have hung it that way. It is one of those things that would be a big deal if it **didn't** have one but it does and it is nothing special.
 
 #### The Stuff Sack
-![targets](/images/alpha-parka/bag-attachment.jpg)
+{{< image-resizer name="bag-attachment.jpg" alt="Stuff sack attachment to pocket" caption="The stuff sack attachment point to the inside pocket" target="alpha-parka" >}}
 
 Here is a close-up of how the staffsack comes with the jacket. It is already stashed in the right, inside pocket **and** it is already tethered to your jacket. This is the loop on it attached to the matching loop on the pocket. It is easy to remove and re-attach. The idea, as with a lot of other jackets, is if you invert the stuffsack and start stuffing the jacket in that way - sort of collapsing in on itself, you get some benefits:
 
 1. When you then undo the stuff and take the jacket out, the tether is still attached and you don't have to worry about the stuffsack flying away
 2. Once packed, a loop that appears to be on the inside of the stuffsack when you look at it uninverted reveals itself. This is the loop you use to attach it to your harness. Let's see that up close.
 
-![targets](/images/alpha-parka/bag-clip.jpg)
+{{< image-resizer name="bag-clip.jpg" alt="The bag clip point for harness" caption="The bag clip point where the stuff jacket will attach to your harness" target="alpha-parka" >}}
 
 This is a thin, branded (wow) piece of of thin webbing that appears to be (rightfully so) the most stitched piece on the sack. Once packed, this is the loop that will keep it from falling off your harness and down a frozen waterfall. If I am honest, I think the whole thing is a little "meh". It is really great for being light but it just feels like it is going to rip when it is stuffed and fall off when attached. You have better things to worry about when you are climbing than if you are going to puncture this paper thin 10D ripstop bag and then your $1000 jacket and if the thin piece of webbing is going to break and send your only warm layer back to where you came from.
 
 As I touched on before, I think I would use something a bit burlier if you have it or just carry a backpack and stuff it in there.
 
-![targets](/images/alpha-parka/bag-pull.jpg)
+{{< image-resizer name="bag-pull.jpg" alt="The stuff sack pull cord" caption="The thin, orange pull cord that keeps the stuffsack closed" target="alpha-parka" >}}
 
 The final part of the bag to look at is the pull-cord. It falls in line with the other parts of the bag being thin, light and untrustworthy. When stuffed, it is a bit of a game to cinch this thing in time before your puffy starts erupting. Even when you have won that battle, you then need to come to terms with the cord-lock slipping a little bit in the beginning of the fight between packed jacket and cord. After a couple slips, it does hold and I have not had it totally open up on me - I just think we could've gone up a couple tenths of a millimeter with the cord thickness for the fight.
 
 #### The Cuffs
 
-![targets](/images/alpha-parka/cuff.jpg)
+{{< image-resizer name="cuff.jpg" alt="The cuff of the jacket" caption="One of the cuffs of the jacket with the soft, stretch fabric for around your wrist with the hardened face fabric abutting it" target="alpha-parka" >}}
 
 Just beautiful. They are the softest, most perfect cuff you would want for this sort of jacket. They are not too tight, not too lose, and the fabric that the elastic is made of is really soft. All around just a great design.
 
 It is abutted by our extra-strength grid face-fabric which makes a lot of sense seeing as these cuffs will see more interaction with a rope and hardware than you may initially think.
 
-![targets](/images/alpha-parka/cuff-inside.jpg)
+{{< image-resizer name="cuff-inside.jpg" alt="Inside the cuff" caption="The inside of the cuff showing the vent and the change in fabric underneath" target="alpha-parka" >}}
 
 The thought is not just on the outside either. You will notice this theme of fabric switching on all parts of the jacket. The inside of the cuff has a triangular vent as well as a more durable fabric in the first couple of inches presumably for protection against things we wear on our hands and wrists like watches and gloves. It is a nice touch. I struggle to see the value of the vent here as the cinch on the cuff makes airflow here very minimal but - and this is just a wild guess but would be awesome if it was true - this could be helping transfer heat from the rest of the jacket down the arms and towards the hands.
 
@@ -99,8 +100,8 @@ The jacket is, of course, branded. Being one of the most - if not the most - exp
 
 Anyway, both Arctery'x and their best from Gore is branded with embroidery on this jacket. I am not complaining because I love it but I just like consistency across the range. I do understand that it would be ridiculous to embroider on a very lightweight jacket - but I digress. In any case, they are nice, the stitching appears to be perfect and I am sure they will still be on this jacket long past my death.
 
-![targets](/images/alpha-parka/embroidery.jpg)
-![targets](/images/alpha-parka/gortex-embroider.jpg)
+{{< image-resizer name="embroidery.jpg" alt="Main logo embroidery" caption="The main, chest embroidery of the Arctery'x logo" target="alpha-parka" >}}
+{{< image-resizer name="gortex-embroider.jpg" alt="Gortex infinium embroidery" caption="The 'Gortext Infinium' embroidery on the arm" target="alpha-parka" >}}
 
 P.S. - Don't mind the changes in the coloring in some of the photos. It was just the light and angle I was using.
 
@@ -108,11 +109,11 @@ P.S. - Don't mind the changes in the coloring in some of the photos. It was just
 
 I have touched on the fabric in a couple places already but I just wanted to show a couple pictures of places you can see the difference pretty well.
 
-![targets](/images/alpha-parka/fabric-compare.jpg)
+{{< image-resizer name="fabric-compare.jpg" alt="Comparing face fabric changes" caption="Clear view of the changing face fabric" target="alpha-parka" >}}
 
 Here is where the shoulder fabric meets the rest of the face fabric and you can easily see the difference. As I said, this grid-fabric is increasingly hard to explain. It is smooth to the touch but if you grab the fabric a bit harder and run your hands down it, it feels a bit more grabby than the other face fabric - hard to explain.
 
-![targets](/images/alpha-parka/lower-baffle-material-mix.jpg)
+{{< image-resizer name="lower-baffle-material-mix.jpg" alt="Lower baffles fabric changes" caption="The fabric change on the inside lower section near your butt" target="alpha-parka" >}}
 
 Here is another comparison but on the lower, inside part of the jacket - by your butt. This is actually a hidden gem of a detail in my opinion. I have seen **a lot** of friend's belay jackets fail and rip in this area. Why? Your harness and all the pretty, expensive, sharp gear you have on it! This jacket features a thicker fabric around the bottom edge - just like we saw around the first few inside inches of the cuff. This should help prevent ripping the jacket due to dangling gear - really nice touch.
 
