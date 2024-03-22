@@ -6,9 +6,9 @@ draft: true
 ---
 I am Sven.
 
-I am a telemark skier who likes skiing with a big stick, I am a landscape photographer and time-lapser when the equipment's weight isn't too much, an alpine climber trying to more of an alpine climber and someone who just loves little, intricate details in everything I can see.
+I am a telemark skier who likes skiing with a big stick, I am a landscape photographer and time-lapser when the equipment's weight isn't too much, an alpine climber trying to be more of an alpine climber and someone who just loves little, intricate details in everything I can see.
 
-I love being outside and and I love gear and so that is what the majority of the posts on this site will be - but not just gear. I love tinkering with my stuff and exploring little improvements I can make. From making my own Dyneema zipper pulls and spending months researching and testing what combination of materials yields the best "feel" to just wanting to right down what I do when I go out and take some astro photos - I have some things I want to share.
+I love being outside and and I love gear and so that is what the majority of the posts on this site will be - but not just gear. I love tinkering with my stuff and exploring little improvements I can make. From making my own Dyneema zipper pulls and spending months researching and testing what combination of materials yields the best "feel" to just wanting to write down what I do when I go out and take some astro photos - I have some things I want to share.
 
 More than anything, I would like this entire site to be a marriage between the technical specifications and hard numbers of something and this idea of feel - the things that you can't find online about a piece you want to buy or a material you can't buy locally. If you read something here, I want you to be able to leave the site knowing at least one thing you didn't - even if it is subjective.
 
@@ -20,8 +20,8 @@ It is these sorts of obscure questions I would love to try and answer. If I can 
 
 So, like I have said, I am not qualified enough for you to take my work completely and there is no reason for you assume what I am saying - especially about subjective stuff - will be the same for you. However, I think not enough people do this and the world of lightweight, detailed text-based information about stuff is coming back. So, these posts are for those of you like me - the gearheads, the obsessive researchers and the endless hunters for the latest and greatest methods, gear, and techniques.
 
-<img src="/images/about-me/sven.jpg" alt="Description of the image" style="width:50%;" />
+Feel free to email me any thoughts on anything you read here. I am always happy to chat: `sventalk.monument320@aleeas.com`
 
 
-<!-- ![targets](/images/about-me/sven.jpg)
-![targets](/images/about-me/snow-face.jpeg) -->
+![targets](/images/about-me/sven.jpg)
+

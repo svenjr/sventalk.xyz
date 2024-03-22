@@ -10,7 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
@@ -85,7 +85,8 @@ params:
       I am not qualified enough to be listened to blindly and there is no reason for you
       to agree with me but I am here and I have thoughts and sometimes I have enough thoughts about
       something that I want to write them down some place. This is that place.
-
+      ---
+      Read more [about me here](/about-me) if you want.
   socialIcons:
     - name: x
       url: "https://x.com/svendleton"
