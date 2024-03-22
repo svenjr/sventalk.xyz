@@ -1,8 +1,9 @@
 ---
 title: "About Me"
 layout: "about-me"
+url: "/about-me"
 date: "2024-02-26T21:50:56-04:00"
-draft: true
+draft: false
 ---
 I am Sven.
 

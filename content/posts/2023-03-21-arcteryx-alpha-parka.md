@@ -1,7 +1,7 @@
 ---
 author: "Sven"
 title: "The Arctery'x Alpha Parka"
-date: "2024-02-25"
+date: "2024-03-21"
 description: "An incredibly suited jacket that nobody needs but that is amazing to have."
 tags: ["arcteryx", "alpha", "alpinism"]
 draft: false

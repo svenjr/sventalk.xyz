@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Feb 2024 21:50:56 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Arctery&#39;x Alpha Parka</title>
+      <link>http://localhost:1313/posts/2023-03-21-arcteryx-alpha-parka/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2023-03-21-arcteryx-alpha-parka/</guid>
+      <description>An incredibly suited jacket that nobody needs but that is amazing to have.</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about-me/</link>
@@ -21,13 +28,6 @@
       <description>I am Sven.
 I am a telemark skier who likes skiing with a big stick, I am a landscape photographer and time-lapser when the equipment&amp;rsquo;s weight isn&amp;rsquo;t too much, an alpine climber trying to be more of an alpine climber and someone who just loves little, intricate details in everything I can see.
 I love being outside and and I love gear and so that is what the majority of the posts on this site will be - but not just gear.</description>
-    </item>
-    <item>
-      <title>The Arctery&#39;x Alpha Parka</title>
-      <link>http://localhost:1313/posts/2023-02-25-arcteryx-alpha-parka/</link>
-      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2023-02-25-arcteryx-alpha-parka/</guid>
-      <description>An incredibly suited jacket that nobody needs but that is amazing to have.</description>
     </item>
   </channel>
 </rss>
