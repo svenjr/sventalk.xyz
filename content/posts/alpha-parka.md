@@ -6,12 +6,14 @@ description: "An incredibly suited jacket that nobody needs but that is amazing 
 tags: ["arcteryx", "alpha", "alpinism"]
 draft: false
 ---
+> **NOTE**: As of March 22, 2024, this jacket does not appear on Arctery'x website. I am not sure if they have removed it for good or because they are re-working. You can still see the lightweight version [here](https://arcteryx.com/us/en/shop/mens/alpha-lightweight-parka) and the women's version [here](https://arcteryx.com/us/en/shop/womens/alpha-parka) but as of this point, the men's full-weight version is no where to be found.
 
 Let's get a couple things clear: I have had this jacket for a season, I love how warm it is, I like how packable it can be, and I think that almost no one needs it - _almost_.
 
 So...let's talk about it.
 
 {{< image-resizer name="alpha.jpg" alt="Wearing the jacket" caption="Wearing the Alpha Parka on top of Pitch 2 of Standard Route at Frankenstein in Crawford Notch, NH" target="alpha-parka" >}}
+
 
 ## My History With the Jacket
 
