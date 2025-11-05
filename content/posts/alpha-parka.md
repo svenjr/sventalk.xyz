@@ -92,7 +92,7 @@ Just beautiful. They are the softest, most perfect cuff you would want for this 
 
 It is abutted by our extra-strength grid face-fabric which makes a lot of sense seeing as these cuffs will see more interaction with a rope and hardware than you may initially think.
 
-{{< image-resizer name="cuff-inside.jpg" alt="Inside the cuff" caption="The inside of the cuff showing the vent and the change in fabric underneath" target="alpha-parka" >}}
+{{< image-resizer name="cuff-Inside.jpg" alt="Inside the cuff" caption="The inside of the cuff showing the vent and the change in fabric underneath" target="alpha-parka" >}}
 
 The thought is not just on the outside either. You will notice this theme of fabric switching on all parts of the jacket. The inside of the cuff has a triangular vent as well as a more durable fabric in the first couple of inches presumably for protection against things we wear on our hands and wrists like watches and gloves. It is a nice touch. I struggle to see the value of the vent here as the cinch on the cuff makes airflow here very minimal but - and this is just a wild guess but would be awesome if it was true - this could be helping transfer heat from the rest of the jacket down the arms and towards the hands.
 
