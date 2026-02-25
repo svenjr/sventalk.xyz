@@ -89,8 +89,8 @@ params:
       ---
       Read more [about me here](/about-me) if you want.
   socialIcons:
-    - name: x
-      url: "https://x.com/svendleton"
+    - name: instagram
+      url: "https://www.instagram.com/svendleton"
 
 # TODO: Check these
   analytics:
