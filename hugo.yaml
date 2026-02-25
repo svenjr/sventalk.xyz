@@ -2,7 +2,8 @@ baseURL: https://sventalk.xyz/
 languageCode: en-us
 title: SvenTalk - XYZ
 theme: PaperMod
-paginate: 5
+pagination:
+  pagerSize: 5
 metadataFormat: yaml
 
 enableRobotsTXT: true
