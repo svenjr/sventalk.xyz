@@ -21,7 +21,7 @@ It is these sorts of obscure questions I would love to try and answer. If I can 
 
 So, like I have said, I am not qualified enough for you to take my word completely and there is no reason for you assume what I am saying - especially about subjective stuff - will be the same for you. However, I think not enough people do this and the world of lightweight, detailed text-based information about stuff is coming back. So, these posts are for those of you like me - the gearheads, the obsessive researchers and the endless hunters for the latest and greatest methods, gear, and techniques.
 
-Feel free to email me any thoughts on anything you read here. I am always happy to chat: `sventalk.monument320@aleeas.com`
+Feel free to email me any thoughts on anything you read here. I am always happy to chat: `sventalk.monument320@aleeas.com` or DM me on Instagram `@svendelton`.
 
 
 {{< image-resizer name="sven.jpg" alt="Me!" caption="" target="about-me" >}}
