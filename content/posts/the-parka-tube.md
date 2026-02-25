@@ -7,7 +7,7 @@ tags: ["MYOG", "ice-climbing", "alpinism"]
 draft: false
 ---
 
-This is going to be a short post because I don't think it needs a lot of explaining: I'm an ice climber, I was starting to get into Make Your Own Gear (MYOG) and I saw a problem that I wanted to fix that there wasn't really a market for in order to use money to fix it.
+This is going to be a short post because I don't think it needs a lot of explaining: I'm an ice climber, I was starting to get into Make Your Own Gear (MYOG) and I saw a problem that I wanted to fix that there wasn't really a market to use money to fix it.
 
 ## The Problem
 
@@ -21,7 +21,7 @@ As we attach this normal cinch sack, we also elongate the problem (literally). T
 
 ## The Solution
 
-The answer to this problem I have called The Parka Tube (or Parka Pack - I have gone back and forth). As simple as the problem itself, simply allow the bag to be oriented in the other plane and wrap around the waist as opposed to hand off the harness. See the photo below to compare from before.
+The answer to this problem I have called The Parka Tube (or Parka Pack - I have gone back and forth). As simple as the problem itself, allow the bag to be oriented in the other plane and wrap around the waist as opposed to hang off the harness. See the photo below to compare from before.
 
 {{< image-resizer name="fixed.JPG" alt="The fix" caption="Orienting a bag with warmth in the other direction and attaching it around the waist allows it to get above everything on the harness" target="parka-tube" >}}
 
@@ -43,7 +43,7 @@ I have chosen to make the bag out of 1 oz Dyneema composite because I already ha
 
 In addition to ice climbing, I have made smaller version to carry something like a Nuclei FL around my waist during some trad climbing as well as bringing the bigger version with me ski touring. When skinning up, it will carry a mid-layer piece of warmth, snacks, and water. Coming down, I swap the warmth for my skins and carry them out that way. It worked very well for someone who gets a sweaty back and doesn't always want to have a backpack on (even small one) for short skins after work.
 
-{{< image-resizer name="ski-touring.jpg" alt="Ski touring with the Parka Tube" caption="Wearing the Parka Tube while night skinning at Attitash Mountain" target="parka-tube" >}}
+{{< image-resizer name="ski-touring.jpg" alt="Ski touring with the Parka Tube" caption="Wearing the Parka Tube while night skinning at Black Mountain of Maine" target="parka-tube" >}}
 
 I think it is worth noting the scenarios I find myself using it versus not because of the application or what I have with me. Granted, you can bring it with you in your pack (or keep it in your jacket pocket because it weight so little) but not necessarily be using it around your waist on the climbs.
 
@@ -55,4 +55,11 @@ I think it is worth noting the scenarios I find myself using it versus not becau
 - **Do WANT**: Leading climbs where only a single pack for gear was brought - the follower can take it
 - **Do NOT WANT**: At the crag - pretty much in any rock climbing discipline, the crag is comfortable enough to just stash your jacket around your stuff as you might want it while not climbing but do not really need it after you top out
 - **Do WANT**: Following in any aspect where I do not need to bring my pack
+
+## The Future
+
+I have made a few of these for locals who have seen me with it on and really have wanted something similar but I have decided against trying to make them in mass because that would just become a job. I will continue to use the ones I have and iterate on them.
+
+I was going to include a section here for more detail on how I made them, little things I have learned and cool additions that have been helpful (or not) but I have decided that should be a post on its own if and only if people want to hear about it.
+Thanks for reading if you made it here - hit me up on Instagram (svendelton) if you liked it, hated it or just want to chat!
 
