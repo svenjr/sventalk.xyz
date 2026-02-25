@@ -43,7 +43,7 @@ I have chosen to make the bag out of 1 oz Dyneema composite because I already ha
 
 In addition to ice climbing, I have made smaller version to carry something like a Nuclei FL around my waist during some trad climbing as well as bringing the bigger version with me ski touring. When skinning up, it will carry a mid-layer piece of warmth, snacks, and water. Coming down, I swap the warmth for my skins and carry them out that way. It worked very well for someone who gets a sweaty back and doesn't always want to have a backpack on (even small one) for short skins after work.
 
-{{< image-resizer name="skiing.jpg" alt="Ski touring with the Parka Tube" caption="Wearing the Parka Tube while night skinning at Attitash Mountain" target="parka-tube" >}}
+{{< image-resizer name="ski-touring.jpg" alt="Ski touring with the Parka Tube" caption="Wearing the Parka Tube while night skinning at Attitash Mountain" target="parka-tube" >}}
 
 I think it is worth noting the scenarios I find myself using it versus not because of the application or what I have with me. Granted, you can bring it with you in your pack (or keep it in your jacket pocket because it weight so little) but not necessarily be using it around your waist on the climbs.
 
